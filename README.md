@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamal-kashyap-393a6b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamal-kashyap-393a6b1b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/kamaltrons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamaltrons" height="30" width="40" /></a>
-<a href="https://medium.com/kamal kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kamal kashyap" height="30" width="40" /></a>
+<a href="https://medium.com/@kamalkashyap1704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kamal kashyap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
