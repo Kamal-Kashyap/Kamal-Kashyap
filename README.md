@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **GSOC Contributions**
-
 - 🌱 I’m currently learning **Java**
 
 - 📝 I regularly write articles on [https://medium.com/@kamalkashyap1704](https://medium.com/@kamalkashyap1704)
